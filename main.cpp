@@ -1,4 +1,3 @@
-#include "UI.cpp"
 #include "application.cpp"
 #include <chrono>
 #include <thread>
