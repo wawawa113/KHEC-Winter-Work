@@ -4,6 +4,7 @@
 
 int main()
 {
+    system("cls");
     Application app;
     map isVisited;
     map t;
@@ -19,4 +20,6 @@ int main()
     }
     std::cout << std::endl;
     std::cout << "shortest path cost : " << goal_depth << std::endl;
+    std::cout << std::endl;
+    std::cout << std::endl;
 }
